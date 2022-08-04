@@ -1,6 +1,23 @@
-# noteit
+# Noteit
 
-A new Flutter project.
+![74qlzrl](https://user-images.githubusercontent.com/63863911/182771025-803b31de-345d-45ad-b80e-a228826c809e.jpg)
+
+
+
+With so many todo apps available in the market, does it really make any difference to create another one?
+But what if I tell you, with NoteIt you can create a room and all your friends can share a single room to keep your
+notes and todos
+
+
+## Download
+
+Why wait? Download NoteIt from https://drive.google.com/file/d/1SgBHs7fojC3DK4r6dQxIR4c7tvIGN_bp/view?usp=sharing
+
+Your mobile will show a number of security concerns while downloading NoteIt ... But trust me I am not knowledgable enough 
+to build a virus...
+
+
+
 
 ## Getting Started
 
